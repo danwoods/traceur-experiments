@@ -1,0 +1,25 @@
+{
+  "name": "traceur-experiments",
+  "version": "0.0.0",
+  "description": "traceur-experiments ===================",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-cli": "~0.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danwoods/traceur-experiments.git"
+  },
+  "author": "Dan Woodson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "49579002c7116935e1004b1d48dac179ee2f9cd5",
+  "bugs": {
+    "url": "https://github.com/danwoods/traceur-experiments/issues"
+  }
+}
